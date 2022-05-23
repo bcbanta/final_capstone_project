@@ -12,4 +12,5 @@ As mentioned previously, the goal of the project is for teams to devise data-dri
 As an example, student teams may pursue the design of models for a recommendation system that suggests purchases to customer based on past buying history, common complementary items, customer demographic, other novel metrics of product or customer similarity, or a combination of the mentioned features
 
 **Goal**
+
 Develop a method for generating product recommendations for customers based on previous purchase history and shopping cart status.
